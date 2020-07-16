@@ -1,0 +1,28 @@
+h1{
+
+    text-align: center;
+    
+    
+}
+
+body {
+    padding-left: 10%;
+    padding-right: 10%;
+    background-image: url(http://localhost:8888/ISCC-2020/image/Set-table-vinyle-Marbre-blanc-blanc.jpg);
+   
+   }
+
+   header{
+
+    text-align: center; 
+    font-family: "nasalization-rg.ttf";
+    font-size: 27px;
+   }
+
+   footer{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    font-size: 30px;
+   }
+
