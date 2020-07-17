@@ -26,11 +26,9 @@
      
  <ul id="nav">
 
- <a href="https://github.com/leacheema"> mon profil github</a>
+ <a href="https://github.com/leacheema"> Profil github</a>
 
- <a href="https://www.linkedin.com/in/léa-cheema-816b2b19b/"> mon profil linkedin</a>
-
- <a href="administration.php"> administration</a>
+ <a href="https://www.linkedin.com/in/léa-cheema-816b2b19b/"> Profil linkedin</a>
 
  </footer>
 </body>
